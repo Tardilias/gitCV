@@ -1,4 +1,4 @@
 <?php include_once("html/index.html");
-("html/contact.html");
-("html/mesprojets.html");
-("html/moncv.html"); ?>
+include_once("html/contact.html");
+include_once("html/mesprojets.html");
+include_once("html/moncv.html"); ?>
