@@ -1,4 +1,4 @@
 <?php include("html/index.html");
-include("html/contact.html");
-include("html/mesprojets.html");
-include("html/moncv.html"); ?>
+include("/contact.html");
+include("/mesprojets.html");
+include("/moncv.html"); ?>
