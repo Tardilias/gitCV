@@ -1,4 +1,4 @@
-<?php include_once("html/index.html");
+<?php include_once("index.html");
 // include("contact.html");
 // include("mesprojets.html");
 // include("moncv.html"); ?>
